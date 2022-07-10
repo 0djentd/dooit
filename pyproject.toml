@@ -14,7 +14,6 @@ python = "^3.10"
 textual = "^0.1.17"
 pyperclip = "^1.8.2"
 PyYAML = "^6.0"
-poetry = "^1.1.13"
 psutil = "^5.9.1"
 
 [tool.poetry.dev-dependencies]
